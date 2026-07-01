@@ -1,5 +1,3 @@
-# fraud-detection-dashboard
-
 # Fraud Detection Dashboard
 
 A professional banking fraud detection dashboard built with Python and Streamlit, 
